@@ -1,0 +1,95 @@
+.table {
+  width: 50% !important;
+  height: 90% !important;
+}
+td {
+  padding: 30%;
+  width: 90px;
+}
+.container1 {
+  margin-top: 10vh;
+  position: relative;
+  background-color: white;
+  border-radius: 15px;
+  width: 900px;
+  min-width: 900px;
+  height: 795px;
+  margin-left: 25%;
+  padding-left: 3%;
+  padding-top: 15px;
+  right: 100px;
+}
+.imageround {
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  margin: 0px 6px;
+}
+
+.name {
+  margin-left: -2%;
+}
+.username {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  margin-left: 8px;
+  align-items: center;
+  justify-content: center;
+}
+.nameandimage {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: center; */
+  align-items: center;
+}
+.dropdwonactive,
+.dropdwonrole,
+.deleteicon,
+.locksymbol {
+  display: flex;
+  align-items: center;
+  
+  margin: 30px 10px 10px 0px;
+  padding: 3px;
+}
+
+.deleteicon,
+.locksymbol {
+  color: rgb(135, 129, 129);
+  font-size: 45px;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  align-items: center;
+}
+.container-table {
+  width: 70%;
+}
+.activeclass {
+  margin: 5px;
+  margin-top: 33px;
+  color: green;
+  font-weight: bold;
+}
+.ownerclass {
+  font-weight: bold;
+  margin: 5px;
+  margin-top: 33px;
+}
+.errormsg {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  margin-top: 18rem;
+  color: red;
+  font-size: 32px;
+}
+.loadingmsg {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  margin-top: 18rem;
+  color: black;
+  font-size: 32px;
+}

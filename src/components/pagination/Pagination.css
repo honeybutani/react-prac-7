@@ -1,0 +1,40 @@
+.pagination {
+  position: absolute;
+  justify-content: center;
+  margin: 0px;
+  right: 400px;
+}
+.listpage {
+  list-style: none;
+}
+.cell {
+  padding: 8px;
+  margin: 0px 4px;
+  font-size: 20px;
+  width: 50px;
+  border: 2px solid #cecece;
+  background-color: white;
+  cursor: pointer;
+  border-radius: 50%;
+}
+.cell:hover {
+  background-color: #cecece;
+}
+.current {
+  background-color: #007aff;
+  padding: 8px;
+  margin: 0px 4px;
+  font-size: 20px;
+  border: 2px solid #cecece;
+  cursor: pointer;
+  width: 50px;
+  border-radius: 50%;
+  border: 2px solid #007aff;
+  color: white;
+}
+
+.current:hover {
+  background-color: #007aff;
+  border: 2px solid #007aff;
+  color: white;
+}

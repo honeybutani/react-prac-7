@@ -1,0 +1,89 @@
+.HoverCard {
+  position: absolute;
+  bottom: 145px;
+	left: 750px;
+  right: 350px;
+  height: 450px;
+  width: 300px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border-radius: 2em;
+  text-align: center;
+  -webkit-box-shadow: 10px 10px 13px -6px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 13px -6px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 13px -6px rgba(0,0,0,0.75);
+}
+.CardCenterContent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  text-align: center;
+}
+.Plan {
+  margin-top: 5px;
+}
+.planuses {
+  margin-top: 20px;
+  float: inline-start;
+  text-align: left;
+  padding-left: 15px;
+}
+.btn-warning {
+  height: 50px;
+  padding-top: 4px;
+  width: 200px;
+  font-size: 20px;
+  color: white;
+  margin: 0 auto;
+  margin-top: 5px;
+  border-radius: 5px;
+  text-align: center;
+  align-self: center;
+  align-content: center;
+}
+
+.progress-bar {
+  width: 60%;
+}
+.progress {
+  height: 7px !important;
+  width: 231px;
+}
+.betweenborder {
+  border-left: 1px solid gray;
+  height: 60px;
+  text-align: left;
+  padding-left: 10px;
+}
+.clicksreviewed {
+  font-size: x-large !important ;
+  display: inline-block;
+}
+.monthlyclicks {
+  font-size: x-large !important   ;
+  display: inline-block;
+  vertical-align: middle;
+  box-sizing: border-box;
+}
+.clicksnumber {
+  text-align: left;
+  margin-left: 15px;
+  margin-right: 10px;
+}
+img {
+  border-radius: 50%;
+  margin: 7px auto;
+  -webkit-box-shadow: 10px 10px 13px -6px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 13px -6px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 13px -6px rgba(0,0,0,0.75);
+}
+.clicks {
+  display: inline-flex;
+  margin-top: 10px;
+}
+.name {
+  font-size: x-large !important   ;
+}
