@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-prac-7/static/css/main.f4bb37cb.css",
+    "main.js": "/react-prac-7/static/js/main.5fcf44b8.js",
+    "static/js/787.749cecfc.chunk.js": "/react-prac-7/static/js/787.749cecfc.chunk.js",
+    "index.html": "/react-prac-7/index.html",
+    "main.f4bb37cb.css.map": "/react-prac-7/static/css/main.f4bb37cb.css.map",
+    "main.5fcf44b8.js.map": "/react-prac-7/static/js/main.5fcf44b8.js.map",
+    "787.749cecfc.chunk.js.map": "/react-prac-7/static/js/787.749cecfc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4bb37cb.css",
+    "static/js/main.5fcf44b8.js"
+  ]
+}
